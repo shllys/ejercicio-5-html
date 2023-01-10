@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/disposicion.css">
+    <title>"Disposición de elementos en CSS"</title>
+</head>
+<body>
+    <div class="galeria">
+        <img class="imagen-galeria" src="IMG/lobo1.jpg" alt="imagen1">
+        <img class="imagen-galeria" src="IMG/lobo2.jpg" alt="imagen2">
+        <img class="imagen-galeria" src="img/lobo3.png" alt="imagen3">
+        <img class="imagen-galeria" src="img/lobo5.jfif" alt="imagen4">
+        <img class="imagen-galeria" src="img/lobo6.jfif" alt="imagen5">
+        <img class="imagen-galeria" src="img/bosque.png" alt="imagen6">
+      </div>
+</body>
+</html>
